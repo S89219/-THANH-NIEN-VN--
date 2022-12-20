@@ -1,5 +1,7 @@
 ## Index user-images.githubusercontent.com/93700294/208651891-60b1dcdb-09be-4524-bd05-81ca3d4c8cd6.png
+user-images.githubusercontent.com/93700294/208653653-8a2d2b78-cb77-4880-a06a-dacd99ef27be.gif
 
+user-images.githubusercontent.com/93700294/208653675-58c5bfc7-1158-4e79-be22-628999909b70.gif
 
 
 
@@ -8,7 +10,7 @@
 
 
 
-<!DOCTYPE html>https://raw.githubusercontent.com/S89219/T-id-/b70b6d79d09232c00f7544a6624f54da3e52d2ca/fullname%D1%87S.THT
+<!DOCTYPE html>https://raw .githubusercontent.com/S89219/T-id-/b70b6d79d09232c00f7544a6624f54da3e52d2ca/fullname%D1%87S.THT
 <html lang="vi" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark_dimmed" >
   <đầu>
     <meta charset="utf-8">
@@ -21,34 +23,7 @@
 
 
 
-  <link crossorigin="anonymous" media="all" integration="sha512-IVVa++hW3DBYJnNsmMMiUwt96BJ1mjUpGNDRWeui5BY1iA04E58M5NujgomnZU9R9DB+H99IlE7a+9b5XlO25g==" rel="stylesheet" href="https://github.githubassets.com/assets/light- 21555afbe856.css" /><link crossorigin="anonymous" media="all" integration="sha512-cZa7DZqvMBwD236uzEunO/G1dvw8/QftyT2UtLWKQFEy0z0eq0R5WPwqVME+3NSZG1YaLJAaIqtU+m0zWf/6SQ= href=" rel="stylesheet"github .githubassets.com/assets/dark_dimmed-7196bb0d9aaf.css" /><link data-color-theme="dark" crossorigin="anonymous" media="all" integration="sha512-1KkMNn8M/al/dtzBLupRwkIOgnA9MWkm8oxS+solP87jByEvY/g4BmoxLihRogKcX1obPnf0ZOTWd7 +ljg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark-d4a90c367f0c.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-WVoKqJ4y1nLsdNH4RkRT5qrM9+n9RFe1RHSiTnQkBf5TSZkJEc9GpLpTIS7T15EQaUQBJ8BwmKvwFPVqfpTEIQ= =" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-595a0aa89e32.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media= "tất cả" tính toàn vẹn="sha512-XpAMBMSRZ6RTXgepS8LjKiOeNK3BilRbv8qEiA/M3m+Q4GoqxtHedOI5BAZRikCzfBL4KWYvVzYZSZ8Gp/UnUg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-5e900c04sc4" /91 data-color-theme="light_colorblind" crossorigin="nặc danh" media="all" liêm="sha512-3HF2HZ4LgEIQm77yOzoeR20CX1n2cUQlcywscqF4s+5iplolajiHV7E5ranBwkX65jN9TNciHEVSYebQ+8xxEw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-dc71761d9" /> <link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" integration="sha512-+J8j3T0kbK9/sL3zbkCfPtgYcRD4qQfRbT6xnfOrOTjvz4zhr0M7AXPuE642PpaxGhHs1t77cTtieW9hI2K6Gw==" rel="stylesheet" data-.hrefets .com/assets/light_high_contrast-f89f23dd3d24.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" integration="sha512-AQeAx5wHQAXNf0DmkvVlHYwA3f6BkxunWTI0GGaRN57GqD+H9tW8RKIKlopLS0qGaC54seFsPc601GDlqIuuHg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/="light_tritanopia-010780c79c-thetan. ="anonymous" media="all" liêm="sha512-+u5pmgAE0T03d/yI6Ha0NWwz6Pk0W6S6WEfIt8veDVdK8NTjcMbZmQB9XUCkDlrBoAKkABva8HuGJ+SzEpV1Uw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia0see069999fasee " />sha512-+u5pmgAE0T03d/yI6Ha0NWwz6Pk0W6S6WEfIt8veDVdK8NTjcMbZmQB9XUCkDlrBoAKkABva8HuGJ+SzEpV1Uw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-faee699a00004.cs/>sha512-+u5pmgAE0T03d/yI6Ha0NWwz6Pk0W6S6WEfIt8veDVdK8NTjcMbZmQB9XUCkDlrBoAKkABva8HuGJ+SzEpV1Uw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-faee699a00004.cs/>
-    <link crossorigin="anonymous" media="all" liêm="sha512-Q79nyJ07nm2BBYSi9+vhJBvpQHuRvgoSSmVyAgdk3ZsHPVlUcstVg+8F1Bs7b+GACbqD9iwyOy3VaVE4eN0jbg==" rel="stylesheet" href="https://github.github.com/assets/frameworks-489dfassets.com/assets/frameworks-489bfassets .css" />
-    <link crossorigin="anonymous" media="all" integration="sha512-kICLwnfuRXT3ZJudcca1LSBktWt3KPVhxPtWkdSA2LPwJHdBI3rARFSo/Rv/B94F/KVC3eSghCekD21T/4pbtw==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors -90808bc277ee.css" />
-  <link crossorigin="anonymous" media="all" integration="sha512-b+o0BRKWHyd+gFVhFHlhj/99KsVmD0DLisx7+Wxwu3sufN9uhK2xgoaYGaNNbZAvOZY+r1s4ddFo482Dw7W/zg==" rel="stylesheet" href="https://github.githubassets.com /assets/github-6fea34051296.css" />
-
-
-
-  <script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-C01SQyoBnx3Sa1URB75fGSFhcoM7AFfW7dCQTspmP8gcVE++YG/dvObcIbDzAZMJB0OIcl3HaxBFlUehLX5tCw==" src="https://github.githubassets.com/assets/runtime- 0b4d52432a01.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-SpZgKJyhHfrmO9ZLmJztuQzJ+J7tYz7l2uK0FahNXJpiNvVqiy1b2P1HammIlT0b/yoq6M9ZC88oDEuIBe8X+g=="github. -4a9660289ca1.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-ZAKZQWCEc6bs9LSQOCPRWq3wqRDkQxG2bPL/pW9Lj/Seap0PV0kF/yKCHske8mW3Zytde9n1Im83jxrCmpaMrA==" src="https://github.githubassets.com/assets/5724 -640299416084.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-yIsmzjyBs6Mu12a5shTZVT0Jr80it7wV2yjZs77L3GmHoFP5SPNsWY9P+Swu7lPaWMXMtyaxceBQGP/7/Kyl8w==" src="https://github.assets.com/assets/93 -c88b26ce3c81.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-WtABWNDgj+0Z+nTC8dZsMxFYSujm/s9SJTsHmFnzg73joAek4tmQ1zXCSLBvgAsgdPE8EQuOuOOW0NNP97Y7UA==" src="https://github.githubassets.com/assets/8630 -5ad00158d0e0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-7ocxdRbeEIuk5x86ryHnbc5GBupcna8GP7PEtAqWS0+sMjp4CX10GV5P0XsN7Grx1XTum3BG1FFOwwpccenxkw==" src="https://github.githubassets.com/assets/5157-ee87de31 "></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-0Eo1tvk2fS3TaBkpCcX1DHb0QadEpOrHoZhK08d+D7bRyJDo8RjvmwQhFirTGfqxPBNpBSGkbm3qpdTIDNy32A==" src="https://github.githubassets.com/assbets/92 "></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-fz1GcL6l5OLkR8KJbj+h3RB9xHNT7BqyueLRP99uvAHF/4TINnzrq2EV2R/yEBUIHbxltkEDtCQPCmd7TilyGA==" src="https://github.assets.com/assets/github -elements-7f3d4670bea5.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-eJ60/5JwG8wJq9pDYeh89nOoqdR4uiSKaO1ZbhwPIsjLYJKLhMkDzKy90QJHqCOf/5h+gqerAg/ndxX7BncPvA==" src="https://github.githubassets.com/assets /element-registry-789eb4ff9270.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-Hb8d69V10VxkC90NX3zvjNovHq5vrRv0XCde5qNf5WiQAB6BziCN+gEbKG+fDj8i05B2pBdyGIh+3pmaRvzLJA==" src="https://github.githubassets.com/assets/5 -1dbf1debd575.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-JPHg6lXC/kVMbA05VoaD5W739fMUF/ObaJ4NrZWLi91OWI9xEhJ9NtwbGROmxjCm5FGwNOVohY+DXILkO19dtA==" src="https://github.githubassets.com/assets/893 -24f1e0ea55c2.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-EIceiRH5/XsS9RPMOGlnx37yFBM2TbSNcVWgTjKPmRwjdl/lfKNdColL/PLunshA/attRqdYJVnNNGXNyhx6Zw==" src="https://github.githubassets.com/assets /7077-10871e8911f9.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-9mbH9ANKp+mACS9WB6Dwf0B0JST0GGfdf1Cal3BazOKVjhvgxnw3FPD6oNcq/mrsBR8Eowgelgcwvu1KhyUUhQ==" src="https://github.assets.com/assets/626a7-f066 .js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-K5XqHZlKou8Ex97bfu02vnw9p1q3z7EXg/hNqwyzevXKd7VQhkOwCH5y4Kx7AQ+wxdF7w2O30sb03ukDwHGVJea1=="9 src="https://github.github.968/assdets/assdets/github. .js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-JLnnTPhYd6z7k1g7CjOIUK4YQRvqCzvSNqRq6GH8tenPhyDVVXDp//clwLGS9xZc07/khbn/oI6NNUUUU5viPQ==" src="https://github.githubassets.com/assets/ 3932-24b9e74cf858.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-KpuRNOm6MMmvWuaP8wFX26rnjPfD1Wf8KTdEyObOT5SLeLP47LFmHQbSCVcJpdBhAAqlf28Pk7fUdcsT8cZILg==" src="https://github.github.assets.com/assets/39b9bajs14a"> </script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript"Integrity="sha512-a4WgZYeVc2aKrHPyOfYm6uY7Vcw96gOwHqRhs6hkNqnhHJuZC4f94uvcomE6JS3HhgCVZTQpvU8PgucLwSkteg=="src="https://github.githubassets.2525/assets/b58"> </script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript"Integrity="sha512-4SyKjvpUXmod23wrQwIcRhSPtXl7Nfgvz5Av7PvjojX19xYVmqSc0VeUx9CF7P2G7XgARly9uqGT27bZDNIenQ="https://github.jsseets.com/assets/src </script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript"Integrity="sha512-nZpgXrBvHm7YePk3m1UhdxY43Ra8lTPxsGk7ocBtGBimPanKdybEgnPXXulh7k7tNLnPzPXFEJ5wY7QGowGOdw==" src="https://github.githubassets.com/5ebassets/7749">d </script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integration="sha512-KKLG+hE5uCMJHxwocsH3WQNYzT3qftRjkNe7L0b5aOMgoS5iT5oWDIwhiy38adTWwg6xdomYeWvi2+wQBjOBAg==" src="https://github.githubassets.com/assets/notifications-global -28a2c6fa1139.js"></script>
-  
+  <link crossorigin="anonymous" media="all" integration="sha512-IVVa++  
 
   <title>S89219/89219---837-2315----Nam Trung Bộ</title>
 
@@ -56,26 +31,8 @@
 
     
 
-  <meta name="request-id" content="F797:0B64:5167B:601AB:628111A8" data-pjax-transient="true" /><meta name="html-safe-nonce" content="4ed55a74e9b5520c8ff0ef89dad03fb1862ec5178783d0684c2dd8fb4c4bfbc9" dữ liệu -pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkY3OTc6MEI2NDo1MTY3Qjo2MDFBQjo2MjgxMTFBOCIsInZpc2l0b3JfaWQiOiI1NDk1ODU2MzU0MjMwODQ2ODYxIiwicmVnaW9uX2VkZ2UiOiJhcC1ub3J0aGVhc3QtMiIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="0dbaa4b66f860d3cbb9e6ee04d3d2e164292d4be5a865846af04a5816311f7ca " data-pjax-transient="true" />
-
-    <meta name="hovercard-subject-tag" content="repository:483860684" data-pjax-transient>
-
-
-  <meta name="github-keyboard-shortcuts" content="repository" data-pjax-transient="true" />
-  
-
-  <meta name="selected-link" value="/S89219/89219---837-2315----Nam-Trung-Duyên" data-pjax-transient>
-
-    <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
-  <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
-  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
-  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
-
-<meta name="octolytics-url" content="https://collector.github.com/github/collect" /><meta name="octolytics-actor-id" content="93700294" /><meta name= "octolytics-actor-login" content="S89219" /><meta name="octolytics-actor-hash" content="2f5e9d64b75ef9c1297e8d813f0ccb1eb1dd86606c30c0a5ab0b87c2b10c5452" />
-
-  <meta name="analytics-location" content="/<user-name>/<repo-name>/files/disambiguate" data-pjax-transient="true" />
-
-  
+ 
+  <
 
 
 
@@ -93,7 +50,7 @@
       <meta property="og:image" content="https://avatars.githubusercontent.com/u/93700294?s=400&v=4" /><meta property="og:image:alt" content=" Đóng góp cho sự phát triển của S89219/89219---837-2315----Nam-Trung-Duyên hải bằng cách tạo một tài khoản trên GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="S89219/89219- --837-2315----Nam-Trung-Duyên" /><meta property="og:url" content="https://github.com/S89219/89219---837-2315--- Duyên hải Nam Trung Bộ" /><meta property="og:description" content="
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/93700294/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MzcwMDI5NCwicyI6ODgyMTQyNTI0LCJjIjoyMTY1NzYwOTY1LCJ0IjoxNjUyNjI1ODU4fQ==--2d6bdde4ec535b4b447fb4c7518e9921e9778f097c88c60ca2f5ccd302b8415a" data-refresh-url="/_alive " data-session-id="cb7fa058514c21aee557e7f7002f9a5a7bcda529eb9a849ebcc8dce7182dc3d1">
+      <link rel=" shared-web-socket " href=" wss://alivegithub .com/_sockets/u/93700294/ws?session = eyJ2IjoiVjMiLCJ1Ijo5MzcwMDI5NCwicyI6ODgyMTQyNTI0LCJjIjoyMTY1NzYwOTY1LCJ0IjoxNjUyNjI1ODU4fQ == --2d6bdde4ec535b4b447fb4c7518e9921e9778f097c88c60ca2f5ccd302b8415a " data-refresh-url=" /_alive  " data-session-id=" cb7fa058514c21aee557e7f7002f9a5a7bcda529eb9a849ebcc8dce7182dc3d1 "  .>
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -120,7 +77,7 @@
   
 
     
-  <meta name="go-import" content="github.com/S89219/89219---837-2315----Nam-Trung-Duyên git https://github.com/S89219/89219---837 -2315----South-Central-Coast.git">
+  <meta name="go-import" content="github.com/ S89219/89219---837-2315----Nam-Trung-Duyên git https://github.com/S89219/89219---837 -2315----South-Central-Coast.git">
 
   <meta name="octolytics-dimension-user_id" content="93700294" /><meta name="octolytics-dimension-user_login" content="S89219" /><meta name="octolytics-dimension-repository_id" content=" 483860684" /><meta name="octolytics-dimension-repository_nwo" content="S89219/89219---837-2315----South-Central-Coast" /><meta name="octolytics-dimension-repository_public" content="false" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="483860684" /><meta name="octolytics- dimensions-repository_network_root_nwo" content="S89219/89219---837-2315----Nam-Trung-Duyên hải"/>
 
@@ -128,15 +85,15 @@
 
 
 
-  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+  <meta name="browser-stats-url" content="https://api. github.com/_private/browser/stats">
 
-  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+  <meta name="browser-errors-url" content="https://api. github.com/_private/browser/errors">
 
-  <meta name="browser-optimizely-client-errors-url" content="https://api.github.com/_private/browser/optimizely_client/errors">
+  <meta name="browser-optimizely-client-errors-url" content="https://api. github.com/_private/browser/optimizely_client/errors">
 
-  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
-  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
-  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+  <link rel="mask-icon" href="https://github .githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github .githubassets.com/favicons/favicon.png">
+  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github. githubassets.com/favicons/favicon.svg">
 
 <meta name="theme-color" content="#1e2327">
 <meta name="color-scheme" content="sáng tối" />
@@ -163,7 +120,8 @@
     <div class="Header-item mt-n1 mb-n1 d-none d-md-flex">
       <một
   class="Header-link"
-  href="https://github.com/"
+  href="https://github. com/"![unnamed (1) (1)](https://user-images.githubusercontent.com/93700294/208656645-9ccc4a6e-dd5b-48c9-9627-dc3a754bcd86.gif)
+
   data-hotkey="g d"
   aria-label="Trang chủ"
   dữ liệu-turbo="false"
@@ -190,7 +148,7 @@
 
 <div class="header-search flex-auto js-site-search vị trí tương đối flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 tìm kiếm theo phạm vi tìm kiếm trong phạm vi trang web"
 >
-  <div class="vị trí tương đối">
+  <div class= <div class="vị trí tương đối">
     <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search " aria-label="Trang web" data-scope-type="Kho lưu trữ" data-scope-id="483860684" data-scoped-search-url="/S89219/89219---837-2315--Nam -Central-Coast/search" data-owner-scoped-search-url="/users/S89219/search" data-unscoped-search-url="/search" data-turbo="false" action="/S89219/ 89219---837-2315----Nam-Trung-Duyên/tìm kiếm" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container">
             <a class="header-search-scope no-underline" href="/S89219/89219---837-2315--South-Central-Coast">Kho lưu trữ này</a>
@@ -211,50 +169,15 @@
 </form> </div>
 </div>
 
-        <nav id="global-nav" class="d-flex flex-column flex-md-row flex-self-stretch flex-md-self-auto" aria-label="Global">
-      <a class="Header-link py-md-3 d-block d-md-none py-2 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click , Menu điều hướng - item:dashboard:user" aria-label="Dashboard" data-turbo="false" href="/dashboard">Dashboard</a>
-
-    <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top- 0 border-white-fade" data-hotkey="g p" data-ga-click="Header, click, Nav menu - item:pulls context:user" aria-label="Kéo yêu cầu bạn đã tạo" data-turbo=" sai" data-sselect-links="/pulls /pulls/được gán /pulls/đã đề cập /pulls" href="/pulls">
-        Kéo<span class="d-inline d-md-none d-lg-inline"> yêu cầu</span>
-</a>
-    <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top- 0 border-white-fade" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Sự cố bạn đã tạo" data-turbo="false " data-sselected-links="/issues /issues/assigned /issues/đã đề cập /issues" href="/issues">Sự cố</a>
-
-      <div class="d-flex position-relative">
-        <a class="js-sselected-navigation-item Header-link flex-auto mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md -top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar " data-turbo="false" data-sered-links=" /marketplace" href="/marketplace">Thị trường</a>
-      </div>
-
-    <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top- 0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-sered-links="/explore /trending /trending/developers /integrations / tích hợp/tính năng/mã /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Khám phá</a>
-
-    <a class="js-sselected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga -click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-sered-links="/codespaces /codespaces" href="/codespaces">Không gian mã</a>
-
-      <a class="js-sselected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga -click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{"event_type":"sponsors.button_click","payload":{"button":"HEADER_SPONSORS_DASHBOARD" ,"sponsorable_login":"S89219","originating_url":"https://github.com/S89219/89219---837-2315----South-Central-Coast","user_id" :93700294}}" data-hydro-click-hmac="91db4e65f8dcf048f50434ce33141d5ec736788d97f6746ab238cae2c68c31c1" data-turbo="false" data-sered-links=" /sponsors/accounts" href="/sponsors/accounts">Nhà tài trợ</a>
-
-    <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" dữ liệu- turbo="false" href="/settings/profile">Cài đặt</a>
-
-    <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" dữ liệu- turbo="false" href="/S89219">
-      <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/93700294?s=40&v=4" width="20" height="20" alt="@S89219" />
-      S89219
-</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept- bộ ký tự="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sVdNTMmIAdXEu1IvpOLlMnamEHHU-LhRf_ZpO_ykddjw8ofdBEuDUkYoZoyKIY_sl71UqcwFIriLvYXoJtXRCA" />
-      <nút
-        gõ = "gửi"
-        class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width- toàn văn-trái"
-        style="padding-left: 2px;"
-        data-analytics-event="{"category":"Header","action":"đăng xuất","nhãn":"icon:logout"}"
-      >
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
-    <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a. 75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25a.075-3.0 -1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
-</svg>
-        Đăng xuất
-      </nút>
-</form></nav>
+        
+    
 
     </div>
 
     <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
         <một
   class="Header-link"
-  href="https://github.com/"
+  href="https://github. com/"
   data-hotkey="g d"
   aria-label="Trang chủ"
   dữ liệu-turbo="false"
